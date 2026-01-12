@@ -1,0 +1,34 @@
+# Chrome profile directory
+chrome_profile/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files - 排除所有数据文件
+*.csv
+*.zip
+xc_airplane/
+xc_trians/
+xc_hotel/*.zip
