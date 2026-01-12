@@ -1,0 +1,10 @@
+{
+  "name": "ctrip-flights",
+  "version": "1.0.0",
+  "description": "Ctrip flights scraper",
+  "main": "xiecheng.js",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "jsdom": "^24.0.0"
+  }
+} 

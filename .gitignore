@@ -26,9 +26,20 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Data files - 排除所有数据文件
+# Data files - 排除数据文件
 *.csv
-*.zip
-xc_airplane/
-xc_trians/
+
+# Browser data
+browser_data/
+chrome_profile/
+
+# Large zip files
 xc_hotel/*.zip
+xc_airplane/result/*.zip
+xc_trians/*.zip
+
+# Node modules
+node_modules/
+
+# Mac OS
+__MACOSX/
